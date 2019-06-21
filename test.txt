@@ -1,1 +1,2 @@
-test for visibility
+test for local pc change's visibility
+test for weather romote change's visible on pc.
